@@ -36,10 +36,3 @@ A real-time **speech-based chatbot** that listens to user queries, processes the
 
 ---
 
-
-![UI Preview](https://wallpapers.com/images/high/sacramento-green-plain-color-whzworfhwbm50ehr.webp)
-
----
-
-## 📂 Project Structure
-
